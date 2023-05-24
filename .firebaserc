@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "loginfirebase-65f1a": {
+      "hosting": {
+        "front-inventory": [
+          "loginfirebase-65f1a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "loginfirebase-65f1a"
+  }
+}
